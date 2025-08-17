@@ -9,11 +9,11 @@ I specialize in **orbital mechanics, astrodynamics, high-fidelity simulations, f
 - High-precision numerical integration (DOP853) in Python  
 
 🎓 **Education:**  
-- M.Sc. Aerospace Engineering — *University of Oklahoma* (2026, 📊 ![GPA](https://img.shields.io/badge/GPA-4.0-brightgreen?style=for-the-badge)  )  
+- M.Sc. Aerospace Engineering — *University of Oklahoma* (2026, GPA 4.0)  
 - B.Sc. Astrophysics + Data Analytics Certificate — *University of Oklahoma* (2024)  
 
-📄 **[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://YOUR-PAGES-LINK/resume.pdf)**  
-
+📄 **[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://YOUR-PAGES-LINK/resume.pdf)**  📊 ![GPA](https://img.shields.io/badge/GPA-4.0-brightgreen?style=for-the-badge) 
+ 
 
 ---
 
@@ -65,6 +65,7 @@ Python implementations of T3/Q4 elements, stiffness/mass matrices, and jacobian 
 ---
 
 ✨ *Always open to roles in Astrodynamics, GNC, and Aerospace R&D.*  
+
 
 
 
