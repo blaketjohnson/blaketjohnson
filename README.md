@@ -12,7 +12,8 @@ I specialize in **orbital mechanics, astrodynamics, high-fidelity simulations, f
 - M.Sc. Aerospace Engineering — *University of Oklahoma* (2026, GPA 4.0)  
 - B.Sc. Astrophysics + Data Analytics Certificate — *University of Oklahoma* (2024)  
 
-📊 ![GPA](https://img.shields.io/badge/GPA-4.0-brightgreen?style=for-the-badge) \\
+📊 ![GPA](https://img.shields.io/badge/GPA-4.0-brightgreen?style=for-the-badge) 
+
 📄 [![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://YOUR-PAGES-LINK/resume.pdf)  
 
 
