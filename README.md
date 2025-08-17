@@ -1,16 +1,18 @@
-## Hi there 👋
+# Blake Johnson — Aerospace • Astrodynamics • Python
 
-<!--
-**blaketjohnson/blaketjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Grad researcher** focused on CR3BP dynamics (Neptune–Triton), Poincaré maps, and J₂ perturbations. Background in FEM and CAD for aerospace structures.
 
-Here are some ideas to get you started:
+- 🔭 Current: J₂-perturbed CR3BP Poincaré mapping (Neptune–Triton), automated event detection, DOP853 integration.
+- 🧪 Methods: Python (NumPy/SciPy/Matplotlib), multiprocessing, LaTeX, Jupyter.  
+- 🛠 CAD & FEM: SolidWorks/Creo • plane-stress/strain elements (T3/Q4) • mass/stiffness assembly.
+- 🎓 [Resume (PDF)](https://YOUR-PAGES-DOMAIN/resume.pdf) • [Email](mailto:YOUR@EMAIL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured work
+- **CR3BP: Neptune–Triton (Python)** — event detection + Poincaré sections. [Repo](https://github.com/blaketjohnson/r3bp_neptune_triton)
+- **Zeppelin CAD Project** — parametric airship modeling + docs/renders. [Repo](https://github.com/blaketjohnson/zeppelin_cad_project)
+- **Starship CAD Project** — mechanical design & doc set. [Repo](https://github.com/blaketjohnson/starship-cad-project)
+
+### Tech
+Python • Jupyter • C/C++ (basics) • LaTeX • SolidWorks • Creo • Git
+
+> I’m looking for roles in **Astrodynamics / Guidance, Navigation & Control (GNC)** and **Aerospace R&D**.
