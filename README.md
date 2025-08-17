@@ -3,6 +3,8 @@
 **Graduate Aerospace Engineering student (M.Sc., 4.0 GPA)** with a B.Sc. in Astrophysics.  
 I specialize in **orbital mechanics, astrodynamics, high-fidelity simulations, finite element analysis, and CAD**.  
 
+📄 [![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://YOUR-PAGES-LINK/resume.pdf)  
+
 🔭 **Current Research:**  
 - J₂-perturbed CR3BP modeling of the **Neptune–Triton system**  
 - Automated Poincaré map generation & orbital stability analysis  
@@ -14,7 +16,7 @@ I specialize in **orbital mechanics, astrodynamics, high-fidelity simulations, f
 
 📊 ![GPA](https://img.shields.io/badge/GPA-4.0-brightgreen?style=for-the-badge) 
 
-📄 [![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://YOUR-PAGES-LINK/resume.pdf)  
+
 
 
 ---
