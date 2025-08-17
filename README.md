@@ -12,8 +12,8 @@ I specialize in **orbital mechanics, astrodynamics, high-fidelity simulations, f
 - M.Sc. Aerospace Engineering — *University of Oklahoma* (2026, GPA 4.0)  
 - B.Sc. Astrophysics + Data Analytics Certificate — *University of Oklahoma* (2024)  
 
-📄 **[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://YOUR-PAGES-LINK/resume.pdf)**    📊 ![GPA](https://img.shields.io/badge/GPA-4.0-brightgreen?style=for-the-badge) 
- 
+📄 [![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://YOUR-PAGES-LINK/resume.pdf)  
+&nbsp;&nbsp;📊 ![GPA](https://img.shields.io/badge/GPA-4.0-brightgreen?style=for-the-badge)
 
 ---
 
@@ -32,7 +32,8 @@ I specialize in **orbital mechanics, astrodynamics, high-fidelity simulations, f
 
 ---
 
-## 📂 Featured Projects
+## 🛰️ Featured Projects
+
 
 🔹 [**Neptune–Triton CR3BP Models**](https://github.com/blaketjohnson/r3bp_neptune_triton)  
 High-fidelity Python simulations of the restricted three-body problem with J₂ perturbations,  
