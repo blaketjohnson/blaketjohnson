@@ -34,9 +34,7 @@ I specialize in **orbital mechanics, astrodynamics, high-fidelity simulations, f
 
 ---
 
-## [![Featured Projects](https://img.shields.io/badge/Featured_Projects-🛰️-darkblue?style=for-the-badge)](#)
-
-
+## 🚀 Featured Projects
 
 
 🔹 [**Neptune–Triton CR3BP Models**](https://github.com/blaketjohnson/r3bp_neptune_triton)  
