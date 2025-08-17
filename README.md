@@ -34,7 +34,8 @@ I specialize in **orbital mechanics, astrodynamics, high-fidelity simulations, f
 
 ---
 
-## [![Featured Projects](https://img.shields.io/badge/Featured_Projects-%F0%9F%9A%80-blue?style=for-the-badge)](#)
+## [![Featured Projects](https://img.shields.io/badge/Featured_Projects-🛰️-darkblue?style=for-the-badge)](#)
+
 
 
 
