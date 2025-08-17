@@ -9,11 +9,10 @@ I specialize in **orbital mechanics, astrodynamics, high-fidelity simulations, f
 - High-precision numerical integration (DOP853) in Python  
 
 🎓 **Education:**  
-- M.Sc. Aerospace Engineering — *University of Oklahoma* (2026, GPA 4.0)  
+- M.Sc. Aerospace Engineering — *University of Oklahoma* (2026)  
 - B.Sc. Astrophysics + Data Analytics Certificate — *University of Oklahoma* (2024)  
 
 📄 **[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://YOUR-PAGES-LINK/resume.pdf)**  
-📊 ![GPA](https://img.shields.io/badge/GPA-4.0-brightgreen?style=for-the-badge)  
 
 ---
 
@@ -49,9 +48,8 @@ Python implementations of T3/Q4 elements, stiffness/mass matrices, and jacobian 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Languages Overview
 
-![Blake's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blaketjohnson&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blaketjohnson&layout=compact&theme=tokyonight)
 
 ---
@@ -65,4 +63,5 @@ Python implementations of T3/Q4 elements, stiffness/mass matrices, and jacobian 
 ---
 
 ✨ *Always open to roles in Astrodynamics, GNC, and Aerospace R&D.*  
+
 
