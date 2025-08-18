@@ -5,8 +5,6 @@ I specialize in **orbital mechanics, astrodynamics, high-fidelity simulations, f
 
 📘 [![Resume](https://img.shields.io/badge/Resume-PDF-red)](docs/resume_08102025.pdf)
 
-[![Resume](https://img.shields.io/badge/Resume-PDF-red)](docs/resume.pdf)
-
   
 
 🔭 **Current Research:**  
