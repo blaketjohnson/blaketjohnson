@@ -62,7 +62,7 @@ Python implementations of T3/Q4 elements, stiffness/mass matrices, and jacobian 
 - ✉️ Email: [blake.t.johnson-1@ou.edu](mailto:blake.t.johnson-1@ou.edu)  
 - 🔗 GitHub: [github.com/blaketjohnson](https://github.com/blaketjohnson)  
 - 🛰 AIAA Member | FAA Private Pilot | U.S. Citizen, Security Clearance Eligible  
-- 📄 [![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://YOUR-PAGES-LINK/resume.pdf)  
+- 📘 [![Resume](https://img.shields.io/badge/Resume-PDF-red)](docs/resume_08102025.pdf)  
 
 ---
 
