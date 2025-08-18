@@ -51,7 +51,7 @@ Parametric CAD design and analysis of an airship system, with technical document
 🔹 [**Starship CAD Project**](https://github.com/blaketjohnson/starship-cad-project)  
 SolidWorks/Creo project recreating a Star Trek starship with assemblies, documentation, and analysis.  
 
-🔹 [**Finite Element Toolkit**](https://github.com/blaketjohnson/fem_notes) *(planned public repo)*  
+🔹 [**Finite Element Toolkit**](https://github.com/blaketjohnson/finite_element_portfolio) *(planned public repo)*  
 Python implementations of T3/Q4 elements, stiffness/mass matrices, and jacobian calculations.
 
 ---
