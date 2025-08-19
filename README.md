@@ -30,9 +30,6 @@ I specialize in **orbital mechanics, astrodynamics, high-fidelity simulations, f
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-E02127?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![Creo](https://img.shields.io/badge/Creo-00A651?style=for-the-badge&logo=ptc&logoColor=white)
 
