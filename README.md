@@ -23,7 +23,7 @@ I specialize in **orbital mechanics, astrodynamics, high-fidelity simulations, f
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
