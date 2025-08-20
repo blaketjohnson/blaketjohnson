@@ -26,7 +26,7 @@ Python tools for Hohmann transfers, porkchop plots, and trajectory design, appli
 🔹 [**Zeppelin CAD Project**](https://github.com/blaketjohnson/zeppelin_cad_project)  
 Parametric CAD design and analysis of an airship system, with technical documentation and renders.  
 
-🔹 [**Starship CAD Project**](https://github.com/blaketjohnson/starship_cad_project)  
+🔹 [**Starship CAD Project**](https://github.com/blaketjohnson/starship-cad-project)  
 SolidWorks/Creo project recreating a Star Trek starship with assemblies, documentation, and analysis.  
 
 ---
