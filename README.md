@@ -16,7 +16,7 @@ Below you’ll find a selection of my projects — from high-fidelity CR3BP simu
 High-fidelity Python simulations of the restricted three-body problem with J₂ perturbations,  
 DOP853 integration, and automated Poincaré map generation for orbital stability studies.  
 
-🔹 [**Finite Element Toolkit**]([https://github.com/blaketjohnson/finite_element_portfolio](https://github.com/blaketjohnson/finite_elements_portfolio))  
+🔹 [**Finite Element Toolkit**]([https://github.com/blaketjohnson/finite_element_portfolio](https://github.com/blaketjohnson/finite_elements_portfolio)  
 Python implementations of T3/Q4 elements, stiffness/mass matrices, Jacobians, and structural dynamics analysis.  
 
 🔹 [**Space Systems & Mission Design**]([https://github.com/blaketjohnson/titan_proposal](https://github.com/blaketjohnson/earth_saturn_transfer))  
