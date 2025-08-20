@@ -1,11 +1,12 @@
 # Blake Johnson — Aerospace • Astrodynamics • Simulations
 
-**Graduate Aerospace Engineering student (M.Sc., 4.0 GPA)** with a B.Sc. in Astrophysics.  
-Graduate Teaching Assistant for AME 5493: Space Sciences and Astrodynamics, reinforcing expertise in orbital mechanics and spacecraft dynamics.  
-Specializing in **orbital mechanics, astrodynamics, high-fidelity simulations, finite element analysis, and CAD**.
 
-📘 [![Resume](https://img.shields.io/badge/Resume-PDF-red)](docs/resume_08102025.pdf)  
-📊 [![GPA](https://img.shields.io/badge/GPA-4.0-darkgreen)](docs/2024_2025-unofficial_transcript.pdf)  
+Welcome! 
+This profile highlights my work in **orbital mechanics, astrodynamics, and aerospace system design**.  
+Below you’ll find a selection of my projects — from high-fidelity CR3BP simulations to CAD design and finite element modeling.
+
+---
+
 
 ---
 
@@ -44,6 +45,15 @@ SolidWorks/Creo project recreating a Star Trek starship with assemblies, documen
 
 ---
 
+## 👨‍🚀 About Me
+
+**Graduate Aerospace Engineering student (M.Sc., 4.0 GPA)** with a B.Sc. in Astrophysics.  
+Currently serving as **Graduate Teaching Assistant for AME 5493: Space Sciences and Astrodynamics**, reinforcing expertise in orbital mechanics and spacecraft dynamics.  
+
+Specializing in **orbital mechanics, astrodynamics, high-fidelity simulations, finite element analysis, and CAD**.  
+Research focus includes **J₂-perturbed CR3BP modeling of the Neptune–Triton system, orbital stability analysis, and automated Poincaré map generation**.  
+
+
 ## 🎓 Education & Research
 
 - M.Sc. Aerospace Engineering — *University of Oklahoma* (2026, GPA 4.0)  
@@ -52,7 +62,10 @@ SolidWorks/Creo project recreating a Star Trek starship with assemblies, documen
 🔭 **Current Research:**  
 - J₂-perturbed CR3BP modeling of the **Neptune–Triton system**  
 - Automated Poincaré map generation & orbital stability analysis  
-- High-precision numerical integration (DOP853) in Python  
+- High-precision numerical integration (DOP853) in Python
+
+📘 [![Resume](https://img.shields.io/badge/Resume-PDF-red)](docs/resume_08102025.pdf)  
+📊 [![GPA](https://img.shields.io/badge/GPA-4.0-darkgreen)](docs/2024_2025-unofficial_transcript.pdf)  
 
 ---
 
