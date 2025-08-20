@@ -4,7 +4,7 @@
 Welcome!
 
 This profile highlights my work in orbital mechanics, aerospace system design, finite element analysis, and CAD modeling.
-I focus on building high-fidelity simulations — from J₂-perturbed Circular Restricted Three-Body Problem (CR3BP) orbital dynamics to structural FEM solvers and parametric CAD projects.
+My projects include J₂-perturbed Circular Restricted Three-Body Problem (CR3BP) simulations, structural finite element solvers, and parametric CAD models that demonstrate both analytical and design capabilities.
 
 ---
 
