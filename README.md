@@ -1,9 +1,9 @@
 # Blake Johnson — Aerospace • Astrodynamics • Simulations
 
 
-Welcome! 
-This profile highlights my work in **orbital mechanics, astrodynamics, and aerospace system design**.  
-Below you’ll find a selection of my projects — from high-fidelity CR3BP simulations to CAD design and finite element modeling.
+Welcome!
+This profile highlights my work in orbital mechanics, aerospace system design, finite element analysis, and CAD modeling.
+I focus on building high-fidelity simulations — from J₂-perturbed Circular Restricted Three-Body Problem (CR3BP) orbital dynamics to structural FEM solvers and parametric CAD projects.
 
 ---
 
