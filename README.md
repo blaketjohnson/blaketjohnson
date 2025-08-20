@@ -11,7 +11,7 @@ My projects include J₂-perturbed Circular Restricted Three-Body Problem (CR3BP
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 🔹 [**Neptune–Triton CR3BP Models**](https://github.com/blaketjohnson/r3bp_neptune_triton)  
 High-fidelity Python simulations of the restricted three-body problem with J₂ perturbations,  
@@ -31,7 +31,7 @@ SolidWorks/Creo project recreating a Star Trek starship with assemblies, documen
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
@@ -43,7 +43,7 @@ SolidWorks/Creo project recreating a Star Trek starship with assemblies, documen
 
 ---
 
-## 👨‍🚀 About Me
+## About Me
 
 **Graduate Aerospace Engineering student (M.Sc., 4.0 GPA)** with a B.Sc. in Astrophysics.  
 Currently serving as **Graduate Teaching Assistant for AME 5493: Space Sciences and Astrodynamics**, reinforcing expertise in orbital mechanics and spacecraft dynamics.  
@@ -67,7 +67,7 @@ Research focus includes **J₂-perturbed CR3BP modeling of the Neptune–Triton 
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - ✉️ Email: [blake.t.johnson-1@ou.edu](mailto:blake.t.johnson-1@ou.edu)  
 - 🔗 GitHub: [github.com/blaketjohnson](https://github.com/blaketjohnson)  
@@ -75,7 +75,7 @@ Research focus includes **J₂-perturbed CR3BP modeling of the Neptune–Triton 
 
 ---
 
-✨ *Actively seeking opportunities in Astrodynamics, Guidance, Navigation & Control (GNC), and Aerospace R&D.*  
+*Actively seeking opportunities in Astrodynamics, Guidance, Navigation & Control (GNC), and Aerospace R&D.*  
 
 
 
