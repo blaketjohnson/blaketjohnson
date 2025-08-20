@@ -16,13 +16,10 @@ Below you’ll find a selection of my projects — from high-fidelity CR3BP simu
 High-fidelity Python simulations of the restricted three-body problem with J₂ perturbations,  
 DOP853 integration, and automated Poincaré map generation for orbital stability studies.  
 
-🔹 [**J79 Turbojet Propulsion & Thermodynamics**](https://github.com/blaketjohnson/j79_engine_project) *(in progress)*  
-Simulation of thrust curves, combustion efficiency, and performance maps, with planned CFD/FEM extensions.  
-
-🔹 [**Finite Element Toolkit**](https://github.com/blaketjohnson/finite_element_portfolio) *(planned public repo)*  
+🔹 [**Finite Element Toolkit**]([https://github.com/blaketjohnson/finite_element_portfolio](https://github.com/blaketjohnson/finite_elements_portfolio))  
 Python implementations of T3/Q4 elements, stiffness/mass matrices, Jacobians, and structural dynamics analysis.  
 
-🔹 [**Space Systems & Mission Design**](https://github.com/blaketjohnson/titan_proposal)  
+🔹 [**Space Systems & Mission Design**]([https://github.com/blaketjohnson/titan_proposal](https://github.com/blaketjohnson/earth_saturn_transfer))  
 Python tools for Hohmann transfers, porkchop plots, and trajectory design, applied to Titan mission scenarios.  
 
 🔹 [**Zeppelin CAD Project**](https://github.com/blaketjohnson/zeppelin_cad_project)  
