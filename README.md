@@ -1,7 +1,9 @@
 # Blake Johnson — Aerospace • Astrodynamics • Simulations
 
 **Graduate Aerospace Engineering student (M.Sc., 4.0 GPA)** with a B.Sc. in Astrophysics.  
-I specialize in **orbital mechanics, astrodynamics, high-fidelity simulations, finite element analysis, and CAD**.  
+Graduate Teaching Assistant for AME 5493: Space Sciences and Astrodynamics, reinforcing expertise in orbital mechanics and spacecraft dynamics.  
+Specializing in **orbital mechanics, astrodynamics, high-fidelity simulations, finite element analysis, and CAD**.
+ 
 
 📘 [![Resume](https://img.shields.io/badge/Resume-PDF-red)](docs/resume_08102025.pdf)
 
