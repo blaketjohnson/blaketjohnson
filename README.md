@@ -52,12 +52,12 @@ Specializing in **orbital mechanics, astrodynamics, high-fidelity simulations, f
 Research focus includes **J₂-perturbed CR3BP modeling of the Neptune–Triton system, orbital stability analysis, and automated Poincaré map generation**.  
 
 
-## 🎓 Education & Research
+## Education & Research
 
 - M.Sc. Aerospace Engineering — *University of Oklahoma* (2026, GPA 4.0)  
 - B.Sc. Astrophysics + Data Analytics Certificate — *University of Oklahoma* (2024)  
 
-🔭 **Current Research:**  
+**Current Research:**  
 - J₂-perturbed CR3BP modeling of the **Neptune–Triton system**  
 - Automated Poincaré map generation & orbital stability analysis  
 - High-precision numerical integration (DOP853) in Python
