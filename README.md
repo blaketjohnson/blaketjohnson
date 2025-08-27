@@ -20,7 +20,7 @@ DOP853 integration, and automated Poincaré map generation for orbital stability
 🔹 [**Finite Element Toolkit**](https://github.com/blaketjohnson/finite_elements_portfolio)  
 Python implementations of T3/Q4 elements, stiffness/mass matrices, Jacobians, and structural dynamics analysis.  
 
-🔹 [**Space Systems & Mission Design**](https://github.com/blaketjohnson/earth_saturn_transfer))  
+🔹 [**Space Systems & Mission Design**](https://github.com/blaketjohnson/earth_saturn_transfer)  
 Python tools for Hohmann transfers, porkchop plots, and trajectory design, applied to Titan mission scenarios.  
 
 🔹 [**Zeppelin CAD Project**](https://github.com/blaketjohnson/zeppelin_cad_project)  
